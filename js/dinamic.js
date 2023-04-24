@@ -19,21 +19,21 @@ index(){
         </div>
         <div class="team-container homepage">
             <div>
-                <img src="/images/Space astronaut cartoon.png" alt="">
+                <img src="images/Space astronaut cartoon.png" alt="">
             </div>
             <div class="Contactanos">
                 <p>Contactanos</p>
                 <table class="social contact-info-container">
                     <tr>
                         <th class="homepage">
-                            <img src="/images/whatsapp.svg" class="social">
+                            <img src="images/whatsapp.svg" class="social">
                             <p>5165165165</p>
 
                         </th>
                     </tr>
                     <tr>
                         <th class="homepage">
-                            <img src="/images/twitter.svg" alt="">
+                            <img src="images/twitter.svg" alt="">
                             <p>@sdvcsd</p>
 
                         </th>
@@ -41,7 +41,7 @@ index(){
 
                     <tr>
                         <th class="homepage     FAQ">
-                            <img src="/images/facebookF.svg" alt="">
+                            <img src="images/facebookF.svg" alt="">
                             <p>dsfgvdf</p>
 
                         </th class="homepage">
@@ -49,7 +49,7 @@ index(){
                     <tr>
                         <th class="homepage">
 
-                            <img src="/images/instagram.svg" alt="">
+                            <img src="images/instagram.svg" alt="">
                             <p>@fdvdf</p>
 
                         </th>
